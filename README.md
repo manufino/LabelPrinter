@@ -19,3 +19,9 @@
 
 ---
 
+## Download
+
+Puoi scaricare direttamente il pacchetto **pronto all’uso** senza bisogno di installazione:
+
+- [Scarica LabelPrinter ZIP](https://github.com/manufino/LabelPrinter/releases/download/1.0/LabelPrinter.zip)
+
