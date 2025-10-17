@@ -1,6 +1,6 @@
 # LabelPrinter
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
 
 **LabelPrinter** è un'applicazione Java per creare, gestire e stampare etichette utilizzando fogli adesivi A4. L'interfaccia intuitiva permette di inserire il testo delle etichette, personalizzare dimensioni e font, visualizzare l'anteprima e stampare direttamente su stampanti compatibili.
 
