@@ -2,26 +2,26 @@
 
 ![Screenshot](screenshot.PNG)
 
-**LabelPrinter** è un'applicazione per creare, gestire e stampare etichette utilizzando fogli adesivi A4. L'interfaccia intuitiva permette di inserire il testo delle etichette, personalizzare dimensioni e font, visualizzare l'anteprima e stampare direttamente su stampanti compatibili.
+**LabelPrinter** is an application for creating, managing, and printing labels using A4 adhesive sheets.  
+The intuitive interface allows you to enter label text, customize size and font, preview the layout, and print directly on compatible printers.
 
 ---
 
-## Caratteristiche principali
+## Main Features
 
-- Creazione di etichette con **una o due righe di testo** per ciascuna.
-- Personalizzazione delle **dimensioni delle etichette** (larghezza e altezza in millimetri).
-- Scelta del **font**, dimensione del testo.
-- Anteprima grafica completa del foglio A4 con tutte le etichette.
-- Navigazione tra le pagine quando il numero di etichette supera lo spazio disponibile su un foglio.
-- Importazione e esportazione di liste di etichette tramite file di testo.
-- Stampa di tutte le etichette o della pagina corrente.
-- Layout adattato automaticamente alle dimensioni reali dei fogli A4.
+- Create labels with **one or two lines of text** each.  
+- Customize **label dimensions** (width and height in millimeters).  
+- Choose the **font** and text size.  
+- Full graphical **preview of the A4 sheet** with all labels.  
+- **Page navigation** when the number of labels exceeds the available space on one sheet.  
+- **Import and export** label lists using text files.  
+- Print **all labels** or just the **current page**.  
+- Automatically adapted **layout** based on the actual A4 sheet dimensions.
 
 ---
 
 ## Download
 
-Puoi scaricare direttamente il pacchetto **pronto all’uso** senza bisogno di installazione:
+You can directly download the **ready-to-use package**, no installation required:
 
-- [Scarica LabelPrinter ZIP](https://github.com/manufino/LabelPrinter/releases/download/1.0/LabelPrinter.zip)
-
+- [Download LabelPrinter ZIP](https://github.com/manufino/LabelPrinter/releases/download/1.0/LabelPrinter.zip)
